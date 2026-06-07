@@ -5,3 +5,4 @@ export default defineConfig({
   plugins: [react()],
   base: '/barber-pack-control/',
 });
+
